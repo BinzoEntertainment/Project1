@@ -12,6 +12,7 @@
     <sprite>sprites\spr_bullet</sprite>
     <sprite>sprites\spr_enemy</sprite>
     <sprite>sprites\spr_bladeslash</sprite>
+    <sprite>sprites\sprite6</sprite>
     <sprite>sprites\spr_wall</sprite>
   </sprites>
   <backgrounds name="background">
@@ -27,6 +28,9 @@
     </objects>
     <objects name="Bullets">
       <object>objects\obj_bullet</object>
+    </objects>
+    <objects name="Items">
+      <object>objects\Revolver</object>
     </objects>
   </objects>
   <rooms name="rooms">
