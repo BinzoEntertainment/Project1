@@ -19,6 +19,9 @@
     <background>background\background1</background>
   </backgrounds>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\font0</font>
+  </fonts>
   <objects name="objects">
     <objects name="Characters">
       <object>objects\obj_player</object>
